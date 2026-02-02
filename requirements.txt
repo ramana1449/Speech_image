@@ -1,0 +1,7 @@
+openai-whisper
+torch
+sounddevice
+scipy
+monsterapi
+python-dotenv
+deep-translator

@@ -1,0 +1,7 @@
+openai-whisper
+torch
+sounddevice
+scipy
+googletrans==4.0.0-rc1
+monsterapi
+python-dotenv
